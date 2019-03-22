@@ -1,0 +1,11 @@
+//Chieu dai lan luot cua 9 canh
+3
+2
+5
+4
+1
+9
+2
+7
+9
+15
