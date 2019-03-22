@@ -1,0 +1,1 @@
+Duong di ngan nhat tu S den T theo thu tu lan luot la: [S, A, D, T]
